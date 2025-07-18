@@ -3,7 +3,9 @@
 
 - I’m currently working on **my portfolio website**
 
-- I’m currently learning **HTML, CSS, JavaScript, and Python**
+- I’m currently learning **HTML, CSS, and JavaScript** for web development through **The Odin Project**.
+
+- I’m learning **Python** using **DataCamp**, and also using it to study other data science topics.
 
 - How to reach me **jeimvincent@gmail.com**
 
